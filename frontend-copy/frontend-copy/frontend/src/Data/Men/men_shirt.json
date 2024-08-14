@@ -1,0 +1,115 @@
+[
+    {
+        "imageUrl": "https://media.istockphoto.com/id/871468672/photo/yellow-rubber-ducks-stuffed-into-concept-wooden-houses.jpg?s=612x612&w=0&k=20&c=m1Uypf6uXpxj-yZAnx1NSwUuKOVShFh_IwSxjWpLQ_A=",
+        "brand": "El Senor",
+        "title": "Men Regular Fit Solid Cut Away Collar Formal Shirt",
+        "color": "white",
+        "discountedPrice": 299,
+        "price": 1299,
+        "discountPersent": 76,
+        "size": [
+            {
+              "name": "S",
+              "quantity": 20
+            },
+            {
+              "name": "M",
+              "quantity": 30
+            },
+            {
+              "name": "L",
+              "quantity": 50
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "Men",
+          "secondLavelCategory": "Clothing",
+          "thirdLavelCategory": "shirt",
+          "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+        "imageUrl": "https://media.istockphoto.com/id/863621498/photo/owl-doll-on-white-background.jpg?s=612x612&w=0&k=20&c=Ab1K2kY9xDSJzALnMttzIK-nhq0eexO8ZGGJVbjSZqo=",
+        "brand": "youth first",
+        "title": "Men Regular Fit Solid Curved Collar Formal Shirt",
+        "color": "white",
+        "discountedPrice": 299,
+        "price": 899,
+        "discountPersent": 66,
+        "size": [
+            {
+              "name": "S",
+              "quantity": 20
+            },
+            {
+              "name": "M",
+              "quantity": 30
+            },
+            {
+              "name": "L",
+              "quantity": 50
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "Men",
+          "secondLavelCategory": "Clothing",
+          "thirdLavelCategory": "shirt",
+          "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+        "imageUrl": "https://media.istockphoto.com/id/173875777/photo/chick-on-fence.jpg?s=612x612&w=0&k=20&c=byBGDlIgXux50ERxZMmmQQbTMo0iBErkIclYJ7qpRL4=",
+        "brand": "VTEXX",
+        "title": "Men Regular Fit Solid Cut Away Collar Formal Shirt",
+        "color": "white",
+        "discountedPrice": 299,
+        "price": 1299,
+        "discountPersent": 76,
+        "size": [
+            {
+              "name": "S",
+              "quantity": 20
+            },
+            {
+              "name": "M",
+              "quantity": 30
+            },
+            {
+              "name": "L",
+              "quantity": 50
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "Men",
+          "secondLavelCategory": "Clothing",
+          "thirdLavelCategory": "shirt",
+          "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+        "imageUrl": "https://media.istockphoto.com/id/1284946459/photo/christmas-decoration-in-rustic-style-and-holiday-background-still-life-on-wooden-backdrop.jpg?s=612x612&w=0&k=20&c=MrqvpoT7Eh8bsamlGpN1hWVPIQ0dJpW3NWJ8Zj_lYrU=",
+        "brand": "PETER ENGLAND",
+        "title": "Men Regular Fit Checkered Spread Collar Formal Shirt",
+        "color": "white",
+        "discountedPrice": 879,
+        "price": 1599,
+        "discountPersent": 45,
+        "size": [
+            {
+              "name": "S",
+              "quantity": 20
+            },
+            {
+              "name": "M",
+              "quantity": 30
+            },
+            {
+              "name": "L",
+              "quantity": 50
+            }
+          ],
+          "quantity": 100,
+          "topLavelCategory": "Men",
+          "secondLavelCategory": "Clothing",
+          "thirdLavelCategory": "shirt",
+          "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    }
+    
+]
